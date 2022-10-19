@@ -419,10 +419,7 @@ const Home = () => {
 						
 						
 						/>
-						<select>
-							<option>Greater or equals 17</option>
-							<option> Greater or equals 17</option>
-						</select>
+						<p className='text-xs italic mb-4 text-orange-400'>Fill all table cells with the appropriate values</p>
 						{/* table */}
 						<div className="overflow-x-scroll ">
 							<table
